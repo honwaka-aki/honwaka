@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
     <title>本和架</title>
-{
+title{
   "name": "@figma/my-make-file",
   "private": true,
   "version": "0.0.1",
